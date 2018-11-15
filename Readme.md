@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/Form1.vb))
+* [CanMinimizePageGroupEventArgs.cs](./CS/WindowsApplication1/MyRibbonControl/CanMinimizePageGroupEventArgs.cs) (VB: [CanMinimizePageGroupEventArgs.vb](./VB/WindowsApplication1/MyRibbonControl/CanMinimizePageGroupEventArgs.vb))
+* [MyRibbonControl.cs](./CS/WindowsApplication1/MyRibbonControl/MyRibbonControl.cs) (VB: [MyRibbonControl.vb](./VB/WindowsApplication1/MyRibbonControl/MyRibbonControl.vb))
+* [MyRibbonPageGroupComplexLayoutCalculator.cs](./CS/WindowsApplication1/MyRibbonControl/MyRibbonPageGroupComplexLayoutCalculator.cs) (VB: [MyRibbonPageGroupComplexLayoutCalculator.vb](./VB/WindowsApplication1/MyRibbonControl/MyRibbonPageGroupComplexLayoutCalculator.vb))
+* [MyRibbonViewInfo.cs](./CS/WindowsApplication1/MyRibbonControl/MyRibbonViewInfo.cs) (VB: [MyRibbonViewInfo.vb](./VB/WindowsApplication1/MyRibbonControl/MyRibbonViewInfo.vb))
+* [RibbonForm1.cs](./CS/WindowsApplication1/RibbonForm1.cs) (VB: [RibbonForm1.vb](./VB/WindowsApplication1/RibbonForm1.vb))
+<!-- default file list end -->
 # How to specify priority for collapsing Ribbon groups
 
 
